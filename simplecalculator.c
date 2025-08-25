@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main(){
-
+    printf("Welcome to the Simple Calculator");
     double num1;
     double num2;
     printf("enter 1st number: "); 
